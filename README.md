@@ -1,0 +1,1 @@
+En este proyecto, pretendemos dar lugar a la creacion de un sitio web de recetas, en la cual se implementaran los conceptos basicos de HTML, al finalizar este esqueleto se implementara a futuro CSS y posteriormente javascrip, buscando asi sentar unas bases solidas en etas tecnologias tan necearias para llegar a ser un desarrollador eficiente.
